@@ -1,0 +1,6 @@
+= Vim Plugin for cPanel & WHM Development
+
+This is a set of Vim plugin entries that are designed for development related to
+cPanel & WHM.
+
+This repository is not affiliated with or endorsed by cPanel.
